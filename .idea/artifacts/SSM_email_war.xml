@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM-email:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringEMP-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SSM-email:war exploded" />
+    </root>
+  </artifact>
+</component>

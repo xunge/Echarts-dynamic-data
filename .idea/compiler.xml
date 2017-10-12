@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="echarts" />
+        <module name="SpringEMP" />
+        <module name="SSM-email" />
+        <module name="SSM-jcaptcha" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="echarts" target="1.6" />
+      <module name="SpringEMP" target="1.6" />
+      <module name="SSM-email" target="1.6" />
+      <module name="SSM-jcaptcha" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
