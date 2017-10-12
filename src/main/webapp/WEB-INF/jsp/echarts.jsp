@@ -11,9 +11,8 @@
     <meta charset="utf-8">
     <title>ECharts</title>
     <!-- 引入 echarts.js -->
-    <script src="js/echarts.js" type="text/javascript"></script>
-    <script src="js/jquery.min.js" type="text/javascript"></script>
-    
+    <script src="https://cdn.bootcss.com/echarts/3.7.2/echarts.js"></script>
+	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>    
 
 </head>
 <body>
