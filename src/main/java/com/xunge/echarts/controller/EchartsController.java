@@ -1,8 +1,6 @@
 package com.xunge.echarts.controller;
 
 import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
 
@@ -13,7 +11,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.xunge.echarts.pojo.Echarts;
 import com.xunge.echarts.service.IEchartsService;
 
 
